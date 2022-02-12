@@ -28,7 +28,7 @@ tratar o código.
 
 Imagens do Fluxograma e Pseudocódigo (Flowgorithm)
 
-![Print00](C:\Users\Kleberluna\Documents\Dev\Git\DIO\Dado-Rondomico-Flowgorithm\Print00.JPG)
+![Print00](https://github.com/KleberLuna/Dado-Rondomico-Flowgorithm/blob/main/Print00.JPG?raw=true)
 
 **Ideias de onde utilizar este código:**
 Jogos do tipo RPG, Bingos...
