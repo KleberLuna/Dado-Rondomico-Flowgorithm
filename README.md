@@ -33,5 +33,5 @@ Imagens do Fluxograma e Pseudocódigo (Flowgorithm)
 **Ideias de onde utilizar este código:**
 Jogos do tipo RPG, Bingos...
 
-[Link do Software Flowgorithm](www.flowgorithm.org)
+[Link do Software Flowgorithm]()
 Versão utilizada 2.30.3
