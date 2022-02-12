@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Kleberluna"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-02-06 06:04:23 "/>
+        <attribute name="created" value="S2xlYmVybHVuYTtERVNLVE9QLTI0RkhGR0E7MjAyMi0wMi0wNjsiMDU6NTI6MzYgIjszMjUy"/>
+        <attribute name="edited" value="S2xlYmVybHVuYTtERVNLVE9QLTI0RkhGR0E7MjAyMi0wMi0wNjsiMDY6MDQ6MjMgIjsyOzMzNTU="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="dado" type="Integer" array="False" size=""/>
+            <do expression="dado == 0">
+                <assign variable="dado" expression="random(6)"/>
+            </do>
+            <output expression="dado" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
