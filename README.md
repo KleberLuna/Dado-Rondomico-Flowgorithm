@@ -33,5 +33,8 @@ tratar o código.
 **Ideias de onde utilizar este código:**
 Jogos do tipo RPG, Bingos...
 
-[Link do Software Flowgorithm](http://www.flowgorithm.org/download/index.html)
+Links importantes:
+
+[DIO - Digital Innovation One](https://www.dio.me/)
+[Software Flowgorithm](http://www.flowgorithm.org/download/index.html)
 Versão utilizada 2.30.3
