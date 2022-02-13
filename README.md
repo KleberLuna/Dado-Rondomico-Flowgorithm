@@ -33,7 +33,9 @@ tratar o código.
 **Ideias de onde utilizar este código:**
 Jogos do tipo RPG, Bingos...
 
-Links importantes:
+**Software utilizado** - Flowgorithm. 
+
+Links:
 
 [DIO - Digital Innovation One](https://www.dio.me/) 
 Cursos e Bootcamps free!
