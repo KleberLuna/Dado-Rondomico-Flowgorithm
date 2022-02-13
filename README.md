@@ -39,4 +39,7 @@ Links importantes:
 Cursos e Bootcamps free!
 
 [Software Flowgorithm](http://www.flowgorithm.org/download/index.html)
-Versão utilizada 2.30.3
+Versão 2.30.3
+
+[Software Typora](https://typora.io/)
+Versão 1.0.4
