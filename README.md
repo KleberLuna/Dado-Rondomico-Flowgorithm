@@ -35,6 +35,8 @@ Jogos do tipo RPG, Bingos...
 
 Links importantes:
 
-[DIO - Digital Innovation One](https://www.dio.me/)
+[DIO - Digital Innovation One](https://www.dio.me/) 
+Cursos e Bootcamps free!
+
 [Software Flowgorithm](http://www.flowgorithm.org/download/index.html)
 Versão utilizada 2.30.3
